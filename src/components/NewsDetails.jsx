@@ -1,14 +1,14 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export class NewsDetails extends Component {
-  render() {
-    return (
-      <div>
-        
+const NewsDetails = () => {
 
-      </div>
-    )
-  }
+  return (
+    <div>
+
+
+    </div>
+  )
+
 }
 
 export default NewsDetails
